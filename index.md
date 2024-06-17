@@ -18,6 +18,8 @@ Curious about computer and technology and artificial intelligence fan
 - Visual Basic
 - HTML
 - CSS
+- Java Script
+- تت
 
 ## Tools and technologies
 - Working with software:
