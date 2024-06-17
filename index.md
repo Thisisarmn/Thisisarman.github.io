@@ -19,7 +19,6 @@ Curious about computer and technology and artificial intelligence fan
 - HTML
 - CSS
 - Java Script
-- تت
 
 ## Tools and technologies
 - Working with software:
