@@ -60,8 +60,8 @@ Curious about computer and technology and artificial intelligence fan
 - Advanced robotics course (electronics, mechanics, programming)
 - Diploma of honor for participating in Iran Open 2017 international competition
 - Diploma of honor for participating in Iran Open 2018 international competition
-- The first place in the province in the Khorezmi competitions for students in the field of handicrafts in 1996-1997
-- The first place of the city in the Khwarazmi competition of students in the field of handicrafts in 1996-1997
+- The first place in the province in the Khorezmi competitions for students in the field of handicrafts in 1396-1397
+- The first place of the city in the Khwarazmi competition of students in the field of handicrafts in 1396-1397
 - Applied programming course using C++
 - Python programming language course
 - The best student of the IOT course
